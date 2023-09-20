@@ -12,3 +12,8 @@ Status: Under development
   <li>TailWindCSS;</li>
   <li>Axios.</li>
 </ul>
+
+## References
+News API: https://newsapi.org/
+<br>
+Next.js: https://nextjs.org/
