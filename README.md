@@ -5,7 +5,7 @@ Show the news on home page.
 <ul>
   <li>Next;</li>
   <li>TypeScript;</li>
-  <li>TailWindCSS;</li>
+  <li>TailwindCSS;</li>
   <li>Axios.</li>
 </ul>
 
