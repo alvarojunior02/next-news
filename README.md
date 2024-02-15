@@ -1,9 +1,5 @@
 # Next project that consumes the News API.
 Show the news on home page.
-<br>
-Version: 0.1.0
-<br>
-Status: Under development
 
 ## Technologies
 <ul>
